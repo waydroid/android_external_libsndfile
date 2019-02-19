@@ -86,7 +86,6 @@ Symbols.darwin
 Symbols.gnu-binutils
 Symbols.os2
 Symbols.static
-src/config.h
 src/config.h.in
 src/config.h.in~
 src/libsndfile.so*
