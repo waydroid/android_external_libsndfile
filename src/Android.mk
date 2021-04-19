@@ -18,6 +18,7 @@ LOCAL_SRC_FILES:= common.c file_io.c command.c pcm.c ulaw.c alaw.c float32.c \
                 cart.c alac.c nms_adpcm.c wavlike.c
 
 LOCAL_MODULE := libsndfile
+LOCAL_PROPRIETARY_MODULE := true
 LOCAL_MODULE_TAGS := optional
 LOCAL_PRELINK_MODULE := false
 
